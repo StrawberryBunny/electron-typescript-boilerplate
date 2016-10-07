@@ -3,3 +3,4 @@ dist/
 .vscode/
 npm-debug.log
 *.js
+*.js.map
